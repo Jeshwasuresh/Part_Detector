@@ -1,0 +1,15 @@
+{
+  "run": "run_20260518_082026",
+  "model": "yolov8n.pt",
+  "epochs": 80,
+  "classes": [
+    "grab_handle",
+    "ashjk"
+  ],
+  "n_train": 61,
+  "n_val": 15,
+  "mAP50": 0.9365,
+  "precision": 0.92551,
+  "recall": 0.93333,
+  "grade": "A"
+}

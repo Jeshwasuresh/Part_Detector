@@ -1,0 +1,8 @@
+names:
+- grab_handle
+- mouse
+- water
+nc: 3
+path: F:\A_Jeshwa\C1_AutoPartDetector files\AutoPartDetector_v14_final\AutoPartDetector\dataset
+train: images/train
+val: images/val

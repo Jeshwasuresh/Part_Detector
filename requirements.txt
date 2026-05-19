@@ -1,0 +1,15 @@
+# AutoPartDetector - CPU Optimized Requirements
+# Intel i5 / Intel UHD — no NVIDIA GPU needed
+
+# Core detection — use CPU-only torch build
+# Install in this order:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+#   pip install -r requirements.txt
+
+ultralytics==8.2.18          # YOLOv8 — supports CPU fully
+opencv-python>=4.9.0
+Pillow>=10.3.0
+numpy>=1.26.0
+PyYAML>=6.0.1
+onnxruntime>=1.18.0          # ONNX runtime for fast CPU inference
+openvino>=2024.1.0           # Intel OpenVINO — optimized for Intel CPUs/iGPU

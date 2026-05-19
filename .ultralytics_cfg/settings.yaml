@@ -1,0 +1,17 @@
+settings_version: 0.0.4
+datasets_dir: F:\A_Jeshwa\AutoPartDetector_v14\AutoPartDetector\datasets
+weights_dir: weights
+runs_dir: runs
+uuid: 34e2b866ceb54e9031d3b4b7524a44dc029e39e8dd8be3eb5256b9dcca767de3
+sync: true
+api_key: ''
+openai_api_key: ''
+clearml: true
+comet: true
+dvc: true
+hub: true
+mlflow: true
+neptune: true
+raytune: true
+tensorboard: true
+wandb: true

@@ -1,0 +1,16 @@
+{
+  "run": "run_20260518_094317",
+  "model": "yolov8n.pt",
+  "epochs": 50,
+  "classes": [
+    "grab_handle",
+    "mouse",
+    "water"
+  ],
+  "n_train": 140,
+  "n_val": 35,
+  "mAP50": 0.9925,
+  "precision": 0.97453,
+  "recall": 0.9697,
+  "grade": "A"
+}
