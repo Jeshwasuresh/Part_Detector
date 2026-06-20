@@ -1,4 +1,4 @@
-# AutoPartDetector v6
+# AutoPartDetector
 ## AI-Based Part Identification System — Intel CPU Optimized
 
 ---
